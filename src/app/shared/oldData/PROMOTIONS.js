@@ -1,9 +1,6 @@
-import breadCrumbImg from '../assets/img/breadcrumb-trail.jpg';
-//Photo by Jonny Caspari on Unsplash
-import weedsImg from '../assets/img/weeds.jpg';
-// Photo by LoboStudio Hamburg on Unsplash
-import bootsImg from '../assets/img/boots.jpg';
-// Photo by Jonathan Gallegos on Unsplash
+import breadCrumbImg from '../assets/img/breadcrumb-trail.jpg'; //Photo by Jonny Caspari on Unsplash
+import weedsImg from '../assets/img/weeds.jpg'; // Photo by LoboStudio Hamburg on Unsplash
+import bootsImg from '../assets/img/boots.jpg'; // Photo by Jonathan Gallegos on Unsplash
 import asyncImg from '../assets/img/mount-promise.jpg';
 
 export const PROMOTIONS = [
